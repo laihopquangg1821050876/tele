@@ -1,0 +1,11 @@
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\bin\Debug\TELESForm3.exe.config
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\bin\Debug\TELESForm3.exe
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\bin\Debug\TELESForm3.pdb
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\obj\Debug\TELESForm3.csproj.AssemblyReference.cache
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\obj\Debug\TELESForm3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\obj\Debug\TELESForm3.Form1.resources
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\obj\Debug\TELESForm3.Properties.Resources.resources
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\obj\Debug\TELESForm3.csproj.GenerateResource.cache
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\obj\Debug\TELESForm3.csproj.CoreCompileInputs.cache
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\obj\Debug\TELESForm3.exe
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\TELESForm3\TELESForm3\obj\Debug\TELESForm3.pdb
