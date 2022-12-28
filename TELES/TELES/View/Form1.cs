@@ -33,10 +33,18 @@ namespace TELES
         {
 
         }
-
+        OpenFileDialog open;
         private void files_Click(object sender, EventArgs e)
         {
-           
+            open = new OpenFileDialog();
+            open.Filter = "|*.txt";
+            if (open.ShowDialog() == DialogResult.OK)
+            {
+                StreamReader read = new StreamReader(open.FileName);
+                bunifuTextBox1.Text = read.ReadToEnd();
+                read.Close();
+            }
+
         }
 
         private void bunifuTextBox1_TextChanged(object sender, EventArgs e)
