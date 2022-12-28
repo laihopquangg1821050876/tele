@@ -37,5 +37,10 @@ namespace TELES
         {
             System.Windows.Forms.OpenFileDialog ofd = new System.Windows.Forms.OpenFileDialog();
         }
+
+        private void bunifuTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
