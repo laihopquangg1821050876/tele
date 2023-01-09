@@ -41,6 +41,7 @@ namespace QLKH
         private DataTable dataTable = new DataTable();
         private void LoadDataGridView()
         {
+            dataTable.Columns.Add("", typeof(CheckBox));
             dataTable.Columns.Add("Mã Hàng", typeof(string));
             dataTable.Columns.Add("Tên Hàng", typeof(string));
             dataTable.Columns.Add(" Số lượng ", typeof(int));
@@ -50,16 +51,16 @@ namespace QLKH
 
         private void dgvHangHoa_CellContentClick(object sender, DataGridViewCellEventArgs e, object dataTable)
         {
-               
-            //    txtMaHang.Text = dgvHangHoa.CurrentRow.Cells["MaHang"].Value.ToString();
-            //    txtTenHang.Text = dgvHangHoa.CurrentRow.Cells["TenHang"].Value.ToString();
-            //    txtSoLuong.Text = dgvHangHoa.CurrentRow.Cells["SoLuong"].Value.ToString();
-            //    txtGiaThanh.Text = dgvHangHoa.CurrentRow.Cells["GiaThanh"].Value.ToString();
-            //    btnXoa.Enabled = true;
-            //    btnXuatExcel.Enabled = true;
-            //    btnXuatPDF.Enabled = true;   
-            //    btnBoQua.Enabled = true;
-            //dgvHangHoa.DataSource = dataTable;
+
+            txtMaHang.Text = dgvHangHoa.CurrentRow.Cells["MaHang"].Value.ToString();
+            txtTenHang.Text = dgvHangHoa.CurrentRow.Cells["TenHang"].Value.ToString();
+            txtSoLuong.Text = dgvHangHoa.CurrentRow.Cells["SoLuong"].Value.ToString();
+            txtGiaThanh.Text = dgvHangHoa.CurrentRow.Cells["GiaThanh"].Value.ToString();
+            btnXoa.Enabled = true;
+            btnXuatExcel.Enabled = true;
+            btnXuatPDF.Enabled = true;
+            btnBoQua.Enabled = true;
+            dgvHangHoa.DataSource = dataTable;
         }
 
         private void bunifuPanel1_Click(object sender, EventArgs e)
@@ -136,5 +137,7 @@ namespace QLKH
         {
 
         }
+         
     }
+
 }
