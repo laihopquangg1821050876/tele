@@ -21,5 +21,10 @@ namespace QliKhohang
         {
             this.Close();
         }
+
+        private void btnLuuXuat_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

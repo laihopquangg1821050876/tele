@@ -30,3 +30,5 @@ C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\QliKhohang\QliKhohang\bin\Debug\Bunif
 C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\QliKhohang\QliKhohang\obj\Debug\QliKhohang.frmSuaThongTinHang.resources
 C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\QliKhohang\QliKhohang\obj\Debug\QliKhohang.frmThem.resources
 C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\QliKhohang\QliKhohang\obj\Debug\QliKhohang.frmXuatHangHoa.resources
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\QliKhohang\QliKhohang\obj\Debug\QliKhohang.frmDonHang.resources
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\QliKhohang\QliKhohang\obj\Debug\QliKhohang.csproj.ResolveComReference.cache

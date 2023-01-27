@@ -151,13 +151,20 @@
         StHfn9GXa/H5dwIAgOf5CdHrvZaiAADwH47jGzBi0Jf0f2KtAAAAAElFTkSuQmCC
 </value>
   </data>
+  <data name="btnImportExcel.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAGgAAAAcCAYAAACNr/p2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB4SURBVGhD7dGxCcMwAABBFSqT/dexyRheIuAB5BAtccUX
+        B9//eL0/1xjHime/+cV3rYD2qAaxGoRrEK5BuAbhGoRrEK5BuAbhGoRrEK5BuAbhGoRrEK5BuAbhGoRr
+        EK5BuAbhGoRrEK5BuAbh/oPmPO99Kpo5z/sBxQtzieRHr6cAAAAASUVORK5CYII=
+</value>
+  </data>
   <data name="bunifuButton1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAEkAAAA+CAYAAABnVDalAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC4SURBVHhe7dCxDcIwAABBFy5h/3WIGCNLIGUAg0gb0A9w
-        xUlf/7jdn/sYj8W1888nXmvxwznLpL9MCkwKTApMCkwKTApMCkwKTApMCkwKTApMCkwKTApMCkwKTApM
-        CkwKTApMCkwKTApMCkwKTApMCkwKTApMCkwKTApMCkwKTApMCkwKTApMCkwKTApMCkwKTApMCkwKTApM
-        CkwKTApMCkwKTApMCkwKTApMCr6T5tyO8xZX5tyON6ETKCIOPMSnAAAAAElFTkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAAGgAAAAcCAYAAACNr/p2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB4SURBVGhD7dGxCcMwAABBFSqT/dexyRheIuAB5BAtccUX
+        B9//eL0/1xjHime/+cV3rYD2qAaxGoRrEK5BuAbhGoRrEK5BuAbhGoRrEK5BuAbhGoRrEK5BuAbhGoRr
+        EK5BuAbhGoRrEK5BuAbh/oPmPO99Kpo5z/sBxQtzieRHr6cAAAAASUVORK5CYII=
 </value>
   </data>
   <data name="bunifuLabel6.BaseStylesheet" xml:space="preserve">
@@ -177,10 +184,10 @@
   </data>
   <data name="txtGiaThanh.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAKAAAAAcCAYAAADmx7QjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACDSURBVHhe7dIxDQMxAARB80fll2EERgDkZclNCHibGema
-        q3dAbq31mXP+zG5tN3fyG2MfcNNu7uQnQO4TICkBkhIgKQGSEiApAZISICkBkhIgKQGSEiApAZISICkB
-        khIgKQGSEiApAZISICkBkhIgKQGS+gvweZ7vPsxubTd38oPKGC/WsuZviRyRNQAAAABJRU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAAIoAAAAcCAYAAAC+uCc6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACBSURBVGhD7dLBCQIxAAXR9F9VlpRhGRagBHJxUZwC3oN/
+        +ecZkK21HnPOl9l9u42TyRj7gG92GycTofCbUEiEQiIUEqGQCIVEKCRCIREKiVBIhEIiFBKhkAiFRCgk
+        QiERColQSIRCIhQSoZAIhUQoJB+hXNf13IfZfbuNkwn8M8YbSAEfY0l7da8AAAAASUVORK5CYII=
 </value>
   </data>
   <data name="txtDonVi.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -201,11 +208,11 @@
   </data>
   <data name="txtTenHang.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAOoAAAAcCAYAAABvXyNKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACOSURBVHhe7dOxCQMxAARB9V+VHpXhMlyAH4ESd6CFGbjk
-        8h1AxFrrM+f8mdld222eTMfYB3Cf3ebJVKhwK6FCgFAhQKgQIFQIECoECBUChAoBQoUAoUKAUCFAqBAg
-        VAgQKgQIFQKECgFChQChQoBQIUCoECBUCBAqBAgVAv5CfZ7nuw8zu2u7zZMpcLcxXrLKbN0cHVLIAAAA
-        AElFTkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAANQAAAAcCAYAAAAZZZHBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACKSURBVHhe7dOxDQIxAARB91+VXy6DMigAZMkJqdlwRrrk
+        8h1AbK31mnN+zOxuu6GT0xj7AO7thk5OgoJ/CQpCgoKQoCAkKAgJCkKCgpCgICQoCAkKQoKCkKAgJCgI
+        CQpCgoKQoCAkKAgJCkKCgpCgICQoCAkKQoKC0E9Qz/O892Fmd9sNnZyAxhhfheelwpZA2HcAAAAASUVO
+        RK5CYII=
 </value>
   </data>
   <data name="txtMaHang.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -268,9 +275,6 @@
         AAAASUVORK5CYII=
 </value>
   </data>
-  <metadata name="CheckDGVThem.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <metadata name="STTDGVThem.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>

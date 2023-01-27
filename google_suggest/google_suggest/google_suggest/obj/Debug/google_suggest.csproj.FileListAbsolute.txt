@@ -1,0 +1,36 @@
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\bin\Debug\google_suggest.exe.config
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\bin\Debug\google_suggest.exe
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\bin\Debug\google_suggest.pdb
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\obj\Debug\google_suggest.csprojResolveAssemblyReference.cache
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\obj\Debug\google_suggest.Form1.resources
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\obj\Debug\google_suggest.Properties.Resources.resources
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.GenerateResource.Cache
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\obj\Debug\google_suggest.exe
+C:\Users\NguyenThao\Desktop\google_suggest\google_suggest\obj\Debug\google_suggest.pdb
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\bin\Debug\google_suggest.exe.config
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\bin\Debug\google_suggest.exe
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\bin\Debug\google_suggest.pdb
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.AssemblyReference.cache
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.Form1.resources
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.Properties.Resources.resources
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.GenerateResource.cache
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.CoreCompileInputs.cache
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.exe
+C:\Users\LAI HOP QUANG\Documents\Zalo Received Files\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.pdb
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\bin\Debug\google_suggest.exe.config
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\bin\Debug\google_suggest.exe
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\bin\Debug\google_suggest.pdb
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.AssemblyReference.cache
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.Form1.resources
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.Properties.Resources.resources
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.GenerateResource.cache
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.CoreCompileInputs.cache
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.exe
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.pdb
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\bin\Debug\WebDriver.dll
+C:\Users\LAI HOP QUANG\Desktop\CodeWinForm\google_suggest\google_suggest\google_suggest\obj\Debug\google_suggest.csproj.CopyComplete
